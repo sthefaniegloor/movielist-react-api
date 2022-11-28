@@ -1,0 +1,19 @@
+.container_details {
+    margin-top: 40px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+.movie_poster img {
+    border-radius: 10px;
+}
+
+.movie_info {
+    width: 50%;
+    text-align: center;
+    padding-left: 20px;
+}
+
